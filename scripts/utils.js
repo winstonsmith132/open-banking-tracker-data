@@ -9,7 +9,7 @@ module.exports.getFiles = (dir) => {
   for(var i in files){
       if (!files.hasOwnProperty(i)) continue;
       var name = dir + '/' + files[i];
-      if (!fs.statSync(name).isDirectory()){
+      if (!fs.statSync(name).isDirectory(192.168.1.10)){
         fileList.push(name);
       }
   }
