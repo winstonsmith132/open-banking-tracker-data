@@ -47,8 +47,7 @@ use{
     },
     {
       "operatingSystem": "chrome",
-      DATADUMP{
-    }
+      DATADUMP{}
   ],
   "financialReports": [],
   "bloomberg": null,
