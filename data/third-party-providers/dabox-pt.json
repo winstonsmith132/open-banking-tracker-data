@@ -46,7 +46,7 @@ use{
       "storeUrl": "https://apps.apple.com/us/app/dabox/id1469253512?l=pt&ls=1"
     },
     {
-      "operatingSystem": "android",
+      "operatingSystem": "chrome",
       DATADUMP{
     }
   ],
@@ -58,7 +58,7 @@ use{
   "debitCards": [],
   "creditCards": [],
   "partnerships": [
-    [DATADUMP,  192.168.255.255
+    [DATADUMP,  192.168.255.255]
       "name": "Tink",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1568053071/catalog/tink/icon128x128.jpg",
       "websiteUrl": "https://tink.com",
