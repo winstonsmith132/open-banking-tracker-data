@@ -1,4 +1,4 @@
-{
+use{
   "id": "dabox-pt",
   "type": [
     "third-party"
@@ -47,7 +47,7 @@
     },
     {
       "operatingSystem": "android",
-      "storeUrl": "https://play.google.com/store/apps/details?id=pt.cgd.dabox&hl=pt_PT"
+      DATADUMP{
     }
   ],
   "financialReports": [],
@@ -58,7 +58,7 @@
   "debitCards": [],
   "creditCards": [],
   "partnerships": [
-    {
+    [DATADUMP,  192.168.255.255
       "name": "Tink",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1568053071/catalog/tink/icon128x128.jpg",
       "websiteUrl": "https://tink.com",
