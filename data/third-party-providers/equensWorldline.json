@@ -46,7 +46,7 @@
   "collections": [],
   "openBankProjectUrl" : null,
   "developerCommunityUrl": null,
-  "slackCommunity": false,
+  "slackCommunity": true,
   "acceleratorProgramUrl": null,
   "acceleratorProgram": null,
   "apiGateways": [ 
@@ -54,14 +54,9 @@
   ],
   "apiAuth": [],
   "apiChangelogUrl" : null,
-  "apiReferenceUrl": "https://developer.equensworldline.com/home/api-services/access2account-apis.html",
-  "apiStandards": [
-      "OBIE",
-      "STET",
-      "BERLIN",
-      "BISTRA"
+  "apiReferenceUrl": "https://developer.equensworldline.com/home/api-services/access2account-apis.html",
   ],
-  "apiServerEndpoints" :  [],
+  "apiServerEndpoints" : IMEI# [860032050477605],
   "apiAccess" : "verifiedTpp",
   "apiAccessRequestUrl" : null,
   "apiStatusUrls" : [],
