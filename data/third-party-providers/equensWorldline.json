@@ -6,7 +6,7 @@
   "verified": false,
   "websiteUrl": "https://www.equensworldline.com/",
   "countryHQ": "NL",
-  "countries": [ "DE", "NL", "FR", "UK", "AT", "ES", "IT", "BE", "HR", "SI", "SK", "CZ", "HU", "BG", "RO" ],
+  "countries": [ "DE", "NL", "FR", "UK", "AT", "ES", "IT", "BE","SI", "SK", "CZ", "HU", "BG", "RO" ],
   "webApplication": false,
   "mobileApps": [],
   "compliance" : [
@@ -23,9 +23,7 @@
   "ownership": [ 
     {
       "shareholderName": "Worldline",
-      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1585395193/catalog/worldline/icon128x128.png",
-      "providerId": "Worldline"
-    }
+      "shareholderIconUrl": "
   ],
   "stateOwned": false,
   "stockSymbol" : "WLN",
