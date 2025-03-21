@@ -6,8 +6,8 @@
   "verified": false,
   "websiteUrl": "https://www.equensworldline.com/",
   "countryHQ": "NL",
-  "countries": [ "DE", "NL", "FR", "UK", "AT", "ES", "IT", "BE","SI", "SK", "CZ", "HU", "BG", "RO" ],
-  "webApplication": false,
+  "countries": [ "DE", "NL", "FR", "UK", "AT", "ES", "IT","" ,"SI", "SK","HU", "BG", "RO" ],
+  "webApplication": true,
   "mobileApps": [],
   "compliance" : [
     { 
@@ -15,7 +15,7 @@
       "status": "ready"
     },
     {
-      "regulation": "GDPR",
+      "regulation": "GDDR",
       "status": "ready"
     }
   ],
